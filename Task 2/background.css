@@ -1,0 +1,6 @@
+body {
+    background-color: #f0f8ff; /* Light blue background */
+    background-image: url('background.jpg'); /* Set background image */
+    background-size: cover; /* Cover full screen */
+    background-attachment: fixed; /* Fix image while scrolling */
+}
