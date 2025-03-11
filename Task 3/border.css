@@ -1,0 +1,11 @@
+.box {
+    width: 200px;
+    height: 200px;
+    text-align: center;
+    line-height: 200px;
+    background-color: lightgray;
+    border-top: 5px solid red; /* Top border */
+    border-right: 5px dashed blue; /* Right border */
+    border-bottom: 5px dotted green; /* Bottom border */
+    border-left: 5px double orange; /* Left border */
+}
