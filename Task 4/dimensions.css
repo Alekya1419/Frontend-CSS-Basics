@@ -1,0 +1,17 @@
+.container {
+    width: 80%; /* 80% of the parent element */
+    height: 50vh; /* 50% of the viewport height */
+    background-color: lightgray;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box {
+    width: 200px;
+    height: 150px;
+    background-color: skyblue;
+    text-align: center;
+    line-height: 150px;
+    font-weight: bold;
+}
